@@ -3,6 +3,11 @@ Simplified operation of indexedDB and support for Promise
 
 # sample
 
+install
+```
+yarn add indexeddb_wrapper_far
+```
+
 ```
 interface SampleTable {
   date: string;

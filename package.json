@@ -1,5 +1,6 @@
 {
-  "name": "indexeddb_wrapper",
+  "name": "indexeddb_wrapper_far",
+  "version": "0.0.1",
   "description": "Simplified operation of indexedDB and support for Promise",
   "main": "./dist/index.js",
   "author": {
