@@ -1,0 +1,14 @@
+{
+  "name": "indexeddb_wrapper",
+  "description": "Simplified operation of indexedDB and support for Promise",
+  "main": "./dist/index.js",
+  "author": {
+    "name": "ふぁー",
+    "url": "https://github.com/ymuichiro"
+  },
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
