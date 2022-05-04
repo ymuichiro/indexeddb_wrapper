@@ -3,7 +3,7 @@
  */
 export interface DatabaseTableBase<T> {
   keyPath: string;
-  data: T[];
+  data: T;
 }
 
 /**
